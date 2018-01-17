@@ -1,0 +1,19 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://www.sap.com/about/events.html"
+name: "Event Registration Site"
+artifactTypeId: "Website"
+features: null
+application: null
+source:
+  url: "https://www.sap.com/about/events.html"
+  type: "Website"
+description:
+  title: null
+  details: "Registration Website"
+  icon:
+  - "sap-icon://internet-browser"
+  background: null
+  moreInfo: null
+  other: null
